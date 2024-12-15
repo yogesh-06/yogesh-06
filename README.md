@@ -16,7 +16,7 @@ I'm [Yogesh Pawar] 🙋‍♂️, a **React Developer** with 2+ years of experie
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node](https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=node&logoColor=black)
+![Node](https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=node&logoColor=green)
 ![Next](https://img.shields.io/badge/Next-F7DF1E?style=for-the-badge&logo=next&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
