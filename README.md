@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Yogesh Pawar] 🙋‍♂️, a **React Developer** with 2+ years of experience building scalable, user-friendly web apps. Passionate about creating **responsive** and **functional** interfaces with **React**, **Next**, **Node**, and modern web technologies.
+I'm Yogesh Pawar 🙋‍♂️, a **React Developer** with 2+ years of experience building scalable, user-friendly web apps. Passionate about creating **responsive** and **functional** interfaces with **React**, **Next**, **Node**, and modern web technologies.
 
 🌟 **About Me**
 - 💻 Currently expanding my skills to become a **Full-Stack Developer**.
