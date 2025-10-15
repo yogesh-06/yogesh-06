@@ -1,26 +1,40 @@
-# Yogesh Pawar
+<!-- Header / Hero Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;Open+Source+Contributor;DevOps+Learner&center=true&width=500&height=45&color=3B82F6&vCenter=true&size=22">
+</p>
 
-**Full-Stack Developer | MERN Stack | React | Node.js | Next.js | MongoDB | DevOps Learner**  
-📍 Nashik, Maharashtra | 📧 [yogeshdpawar.06@gmail.com](mailto:yogeshdpawar.06@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yogeshd-pawar) • [Portfolio](https://yogesh-06.github.io/portfolio-webapp/) • [GitHub](https://github.com/yogesh-06)
+<h1 align="center">Hi, I'm <span style="color:#3B82F6;">Yogesh Pawar</span></h1>
+<h3 align="center">Full-Stack Developer | MERN | React | Node.js | Next.js | MongoDB | DevOps Enthusiast</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yogeshd-pawar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://yogesh-06.github.io/portfolio-webapp/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:yogeshdpawar.06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a **Full-Stack Developer** with over 2 years of hands-on experience building **scalable**, **secure**, and **user-centric web applications** using the **MERN stack**.  
-I have a strong focus on writing **clean, reusable code** and following modern development practices.  
+I’m a **Full-Stack Developer** with over **2.8 years of experience** building robust and scalable web applications using the **MERN Stack**.  
+I focus on writing **clean, reusable, and maintainable code**, with an eye for **performance optimization** and **modern design**.  
 
-Currently, I am expanding my skills in **DevOps**, **Cloud (AWS)**, and **CI/CD pipelines** to strengthen my backend and deployment expertise.  
+Currently, I’m expanding my knowledge in **DevOps**, **AWS**, and **CI/CD pipelines** to strengthen my backend and deployment expertise.
 
-- Experienced in **React.js**, **Next.js**, **Node.js**, **Express**, and **MongoDB**  
-- Built production-grade platforms in **finance**, **healthcare**, and **e-commerce** domains  
-- Focused on **performance optimization**, **security**, and **user experience**  
-- Open to collaborating on impactful, scalable projects  
+- Hands-on with **React**, **Next.js**, **Node.js**, **Express**, and **MongoDB**
+- Experience in **secure authentication**, **role-based access**, and **admin dashboards**
+- Developed real-world apps in **Finance**, **Healthcare**, and **E-commerce** domains
+- Passionate about continuous learning, clean code, and collaborative teamwork
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -28,11 +42,11 @@ Currently, I am expanding my skills in **DevOps**, **Cloud (AWS)**, and **CI/CD 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -54,31 +68,40 @@ Currently, I am expanding my skills in **DevOps**, **Cloud (AWS)**, and **CI/CD 
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**DubaiOTC**](https://www.dubaiotc.com/) | OTC Crypto Trading Platform with admin dashboards, secure authentication, and complex backend APIs. | Next.js, Node.js, MongoDB |
-| [**AllMinds**](https://www.getallminds.com/) | Online therapy booking and scheduling platform integrated with Google Calendar and automated notifications. | React, Node.js, Express |
-| **KisanBuddy** | E-commerce solution for farmers with product search, JWT auth, multi-step checkout, and localization. | React, Redux, Node.js, MongoDB |
+| [**DubaiOTC**](https://www.dubaiotc.com/) | Crypto OTC trading platform with admin dashboards, authentication, and secure APIs. | Next.js, Node.js, MongoDB |
+| [**AllMinds**](https://www.getallminds.com/) | Mental health platform connecting patients with therapists; integrated Google Calendar API. | React, Node.js, Express |
+| **KisanBuddy** | E-commerce solution for farmers with product filtering, JWT auth, and localization. | React, Redux, Node.js, MongoDB |
 
 ---
 
-## GitHub Insights
+## 📊 GitHub Analytics
 
-![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogesh-06&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-06&layout=compact&theme=transparent)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yogesh-06&show_icons=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yogesh-06&theme=transparent&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-06&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 📫 Contact
+
+- **Email:** [yogeshdpawar.06@gmail.com](mailto:yogeshdpawar.06@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/yogeshd-pawar](https://linkedin.com/in/yogeshd-pawar)  
+- **Portfolio:** [yogesh-06.github.io/portfolio-webapp](https://yogesh-06.github.io/portfolio-webapp)
 
 ---
 
-## Get in Touch
-📧 **Email:** [yogeshdpawar.06@gmail.com](mailto:yogeshdpawar.06@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yogeshd-pawar](https://linkedin.com/in/yogeshd-pawar)  
-🌐 **Portfolio:** [yogesh-06.github.io/portfolio-webapp](https://yogesh-06.github.io/portfolio-webapp)
+<details>
+<summary><b>Keywords (for SEO & Recruiters)</b></summary>
 
----
+`Full Stack Developer` · `MERN Stack Developer` · `React Developer` · `Next.js` · `Node.js` · `MongoDB` · `Express.js` · `JavaScript` · `TypeScript` · `AWS` · `Docker` · `CI/CD` · `DevOps` · `Frontend Engineer` · `Backend Developer`
 
-### Keywords
-`Full Stack Developer` · `MERN Stack Developer` · `React Developer` · `Next.js` · `Node.js` · `MongoDB` · `JavaScript` · `TypeScript` · `AWS` · `Docker` · `CI/CD` · `DevOps` · `Frontend Engineer` · `Backend Developer`
-
----
+</details>
